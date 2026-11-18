@@ -1,0 +1,563 @@
+{
+  "as_of": "2026-09-28",
+  "items": [
+    {
+      "event_id": 101,
+      "tier": "A",
+      "remaining": 311,
+      "current_price": 108.0
+    },
+    {
+      "event_id": 101,
+      "tier": "B",
+      "remaining": 263,
+      "current_price": 76.0
+    },
+    {
+      "event_id": 101,
+      "tier": "C",
+      "remaining": 520,
+      "current_price": 23.0
+    },
+    {
+      "event_id": 102,
+      "tier": "A",
+      "remaining": 276,
+      "current_price": 87.0
+    },
+    {
+      "event_id": 102,
+      "tier": "B",
+      "remaining": 398,
+      "current_price": 69.5
+    },
+    {
+      "event_id": 102,
+      "tier": "C",
+      "remaining": 453,
+      "current_price": 47.0
+    },
+    {
+      "event_id": 103,
+      "tier": "A",
+      "remaining": 371,
+      "current_price": 83.0
+    },
+    {
+      "event_id": 103,
+      "tier": "B",
+      "remaining": 415,
+      "current_price": 50.0
+    },
+    {
+      "event_id": 103,
+      "tier": "C",
+      "remaining": 879,
+      "current_price": 15.0
+    },
+    {
+      "event_id": 104,
+      "tier": "A",
+      "remaining": 106,
+      "current_price": 121.0
+    },
+    {
+      "event_id": 104,
+      "tier": "B",
+      "remaining": 506,
+      "current_price": 54.0
+    },
+    {
+      "event_id": 104,
+      "tier": "C",
+      "remaining": 313,
+      "current_price": 33.5
+    },
+    {
+      "event_id": 105,
+      "tier": "A",
+      "remaining": 260,
+      "current_price": 69.0
+    },
+    {
+      "event_id": 105,
+      "tier": "B",
+      "remaining": 239,
+      "current_price": 42.0
+    },
+    {
+      "event_id": 105,
+      "tier": "C",
+      "remaining": 296,
+      "current_price": 32.5
+    },
+    {
+      "event_id": 106,
+      "tier": "A",
+      "remaining": 334,
+      "current_price": 86.0
+    },
+    {
+      "event_id": 106,
+      "tier": "B",
+      "remaining": 585,
+      "current_price": 48.0
+    },
+    {
+      "event_id": 106,
+      "tier": "C",
+      "remaining": 796,
+      "current_price": 20.5
+    },
+    {
+      "event_id": 107,
+      "tier": "A",
+      "remaining": 338,
+      "current_price": 106.0
+    },
+    {
+      "event_id": 107,
+      "tier": "B",
+      "remaining": 351,
+      "current_price": 72.5
+    },
+    {
+      "event_id": 107,
+      "tier": "C",
+      "remaining": 592,
+      "current_price": 30.0
+    },
+    {
+      "event_id": 108,
+      "tier": "A",
+      "remaining": 20,
+      "current_price": 126.0
+    },
+    {
+      "event_id": 108,
+      "tier": "B",
+      "remaining": 460,
+      "current_price": 59.5
+    },
+    {
+      "event_id": 108,
+      "tier": "C",
+      "remaining": 701,
+      "current_price": 34.5
+    },
+    {
+      "event_id": 109,
+      "tier": "A",
+      "remaining": 69,
+      "current_price": 110.5
+    },
+    {
+      "event_id": 109,
+      "tier": "B",
+      "remaining": 354,
+      "current_price": 66.5
+    },
+    {
+      "event_id": 109,
+      "tier": "C",
+      "remaining": 303,
+      "current_price": 32.5
+    },
+    {
+      "event_id": 110,
+      "tier": "A",
+      "remaining": 100,
+      "current_price": 143.0
+    },
+    {
+      "event_id": 110,
+      "tier": "B",
+      "remaining": 217,
+      "current_price": 73.0
+    },
+    {
+      "event_id": 110,
+      "tier": "C",
+      "remaining": 194,
+      "current_price": 32.0
+    },
+    {
+      "event_id": 111,
+      "tier": "A",
+      "remaining": 265,
+      "current_price": 78.5
+    },
+    {
+      "event_id": 111,
+      "tier": "B",
+      "remaining": 355,
+      "current_price": 55.5
+    },
+    {
+      "event_id": 111,
+      "tier": "C",
+      "remaining": 535,
+      "current_price": 43.5
+    },
+    {
+      "event_id": 112,
+      "tier": "A",
+      "remaining": 202,
+      "current_price": 101.0
+    },
+    {
+      "event_id": 112,
+      "tier": "B",
+      "remaining": 596,
+      "current_price": 47.0
+    },
+    {
+      "event_id": 112,
+      "tier": "C",
+      "remaining": 509,
+      "current_price": 25.5
+    },
+    {
+      "event_id": 113,
+      "tier": "A",
+      "remaining": 110,
+      "current_price": 92.0
+    },
+    {
+      "event_id": 113,
+      "tier": "B",
+      "remaining": 178,
+      "current_price": 58.0
+    },
+    {
+      "event_id": 113,
+      "tier": "C",
+      "remaining": 574,
+      "current_price": 31.0
+    },
+    {
+      "event_id": 115,
+      "tier": "A",
+      "remaining": 58,
+      "current_price": 130.0
+    },
+    {
+      "event_id": 115,
+      "tier": "B",
+      "remaining": 151,
+      "current_price": 48.5
+    },
+    {
+      "event_id": 115,
+      "tier": "C",
+      "remaining": 178,
+      "current_price": 28.5
+    },
+    {
+      "event_id": 116,
+      "tier": "A",
+      "remaining": 472,
+      "current_price": 73.0
+    },
+    {
+      "event_id": 116,
+      "tier": "B",
+      "remaining": 845,
+      "current_price": 53.5
+    },
+    {
+      "event_id": 116,
+      "tier": "C",
+      "remaining": 1333,
+      "current_price": 20.5
+    },
+    {
+      "event_id": 117,
+      "tier": "A",
+      "remaining": 293,
+      "current_price": 138.5
+    },
+    {
+      "event_id": 117,
+      "tier": "B",
+      "remaining": 504,
+      "current_price": 61.5
+    },
+    {
+      "event_id": 117,
+      "tier": "C",
+      "remaining": 861,
+      "current_price": 39.5
+    },
+    {
+      "event_id": 118,
+      "tier": "A",
+      "remaining": 277,
+      "current_price": 100.5
+    },
+    {
+      "event_id": 118,
+      "tier": "B",
+      "remaining": 238,
+      "current_price": 71.5
+    },
+    {
+      "event_id": 118,
+      "tier": "C",
+      "remaining": 334,
+      "current_price": 38.5
+    },
+    {
+      "event_id": 119,
+      "tier": "A",
+      "remaining": 173,
+      "current_price": 89.0
+    },
+    {
+      "event_id": 119,
+      "tier": "B",
+      "remaining": 246,
+      "current_price": 64.5
+    },
+    {
+      "event_id": 119,
+      "tier": "C",
+      "remaining": 487,
+      "current_price": 29.0
+    },
+    {
+      "event_id": 120,
+      "tier": "A",
+      "remaining": 70,
+      "current_price": 128.5
+    },
+    {
+      "event_id": 120,
+      "tier": "B",
+      "remaining": 207,
+      "current_price": 53.5
+    },
+    {
+      "event_id": 120,
+      "tier": "C",
+      "remaining": 194,
+      "current_price": 20.5
+    },
+    {
+      "event_id": 121,
+      "tier": "A",
+      "remaining": 223,
+      "current_price": 131.5
+    },
+    {
+      "event_id": 121,
+      "tier": "B",
+      "remaining": 378,
+      "current_price": 53.0
+    },
+    {
+      "event_id": 121,
+      "tier": "C",
+      "remaining": 623,
+      "current_price": 28.0
+    },
+    {
+      "event_id": 122,
+      "tier": "A",
+      "remaining": 242,
+      "current_price": 82.5
+    },
+    {
+      "event_id": 122,
+      "tier": "B",
+      "remaining": 137,
+      "current_price": 84.0
+    },
+    {
+      "event_id": 122,
+      "tier": "C",
+      "remaining": 277,
+      "current_price": 18.5
+    },
+    {
+      "event_id": 123,
+      "tier": "A",
+      "remaining": 1172,
+      "current_price": 115.0
+    },
+    {
+      "event_id": 123,
+      "tier": "B",
+      "remaining": 1468,
+      "current_price": 56.5
+    },
+    {
+      "event_id": 123,
+      "tier": "C",
+      "remaining": 1432,
+      "current_price": 30.0
+    },
+    {
+      "event_id": 124,
+      "tier": "A",
+      "remaining": 208,
+      "current_price": 109.0
+    },
+    {
+      "event_id": 124,
+      "tier": "B",
+      "remaining": 351,
+      "current_price": 50.5
+    },
+    {
+      "event_id": 124,
+      "tier": "C",
+      "remaining": 617,
+      "current_price": 26.5
+    },
+    {
+      "event_id": 125,
+      "tier": "A",
+      "remaining": 74,
+      "current_price": 121.0
+    },
+    {
+      "event_id": 125,
+      "tier": "B",
+      "remaining": 264,
+      "current_price": 51.0
+    },
+    {
+      "event_id": 125,
+      "tier": "C",
+      "remaining": 334,
+      "current_price": 19.0
+    },
+    {
+      "event_id": 126,
+      "tier": "A",
+      "remaining": 255,
+      "current_price": 127.0
+    },
+    {
+      "event_id": 126,
+      "tier": "B",
+      "remaining": 531,
+      "current_price": 56.0
+    },
+    {
+      "event_id": 126,
+      "tier": "C",
+      "remaining": 158,
+      "current_price": 52.0
+    },
+    {
+      "event_id": 127,
+      "tier": "A",
+      "remaining": 863,
+      "current_price": 100.5
+    },
+    {
+      "event_id": 127,
+      "tier": "B",
+      "remaining": 422,
+      "current_price": 82.5
+    },
+    {
+      "event_id": 127,
+      "tier": "C",
+      "remaining": 793,
+      "current_price": 34.5
+    },
+    {
+      "event_id": 128,
+      "tier": "A",
+      "remaining": 61,
+      "current_price": 115.5
+    },
+    {
+      "event_id": 128,
+      "tier": "B",
+      "remaining": 159,
+      "current_price": 64.0
+    },
+    {
+      "event_id": 128,
+      "tier": "C",
+      "remaining": 196,
+      "current_price": 22.0
+    },
+    {
+      "event_id": 129,
+      "tier": "A",
+      "remaining": 141,
+      "current_price": 134.0
+    },
+    {
+      "event_id": 129,
+      "tier": "B",
+      "remaining": 407,
+      "current_price": 74.0
+    },
+    {
+      "event_id": 129,
+      "tier": "C",
+      "remaining": 215,
+      "current_price": 37.0
+    },
+    {
+      "event_id": 130,
+      "tier": "A",
+      "remaining": 181,
+      "current_price": 130.5
+    },
+    {
+      "event_id": 130,
+      "tier": "B",
+      "remaining": 399,
+      "current_price": 106.5
+    },
+    {
+      "event_id": 130,
+      "tier": "C",
+      "remaining": 1120,
+      "current_price": 34.0
+    },
+    {
+      "event_id": 131,
+      "tier": "A",
+      "remaining": 139,
+      "current_price": 156.0
+    },
+    {
+      "event_id": 131,
+      "tier": "B",
+      "remaining": 282,
+      "current_price": 88.5
+    },
+    {
+      "event_id": 131,
+      "tier": "C",
+      "remaining": 401,
+      "current_price": 30.5
+    },
+    {
+      "event_id": 132,
+      "tier": "A",
+      "remaining": 153,
+      "current_price": 104.5
+    },
+    {
+      "event_id": 132,
+      "tier": "B",
+      "remaining": 193,
+      "current_price": 47.5
+    },
+    {
+      "event_id": 132,
+      "tier": "C",
+      "remaining": 272,
+      "current_price": 27.0
+    }
+  ]
+}
